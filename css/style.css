@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: purple;
+    align-items: center;
+    height: 700px;
+}
+.img{
+ width: 400px;
+ height: 500px;
+}
+.item1{
+    width: 400px;
+     height:540px;
+    border: 3px solid #fff;  
+    text-align: center;
+    margin: auto;
+    background-color: #fff;
+}
+.item2{
+    display: flex;
+    justify-content: space-around;
+}
